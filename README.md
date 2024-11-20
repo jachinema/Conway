@@ -1,4 +1,13 @@
 # Conway's Game of Life
+
+Since this was originally uploaded I have grown a lot as a person and as a programmer, and today I decided to try my hand at this project again, except how it was originally intended to be made. Now that it is infinite, it is Turing complete.
+It can be viewed from any point, zoomed in and zoomed out. The code is very modular and much more readable. Even more impressive, the original took me a weekend while this version took about an hour and a half. However,
+I do not have it in me to write another README, so just try it out yourself.
+
+
+
+// Original message:
+
 The zero player Darwinism simulation game as described by Conway (demonstrates Turing Completeness).
 
 
